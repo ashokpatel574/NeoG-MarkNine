@@ -1,5 +1,5 @@
 
-#MAJOR CITIES ACROSS THE COUNTRY
+# MAJOR CITIES ACROSS THE COUNTRY
 
 
 ![World Cities](https://user-images.githubusercontent.com/96565022/193982396-67131647-a875-4545-81f9-680fa88a27cb.png)
