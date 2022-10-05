@@ -1,3 +1,14 @@
+
+#MAJOR CITIES ACROSS THE COUNTRY
+
+
+![World Cities](https://user-images.githubusercontent.com/96565022/193982396-67131647-a875-4545-81f9-680fa88a27cb.png)
+
+# Features
+1. Click on a country category to get a list of cities and it's details
+2. Made with React.js
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
